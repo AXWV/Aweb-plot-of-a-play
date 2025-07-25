@@ -1,5 +1,5 @@
 # Aweb-plot-of-a-play
-<a href='https://xw.ct.ws/>戳这访问</a>
+戳这访问https://xw.ct.ws/
 # JSON驱动的网页生成系统
 
 这是一个基于JSON配置文件的轻量级网页生成系统，只需编辑`index.json`文件即可创建完整的网页，无需编写HTML/CSS代码。系统通过PHP动态解析JSON配置并生成美观的响应式网页。
