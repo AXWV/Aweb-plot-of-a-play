@@ -363,16 +363,7 @@ const bgIndex = clickCount % backgroundArray.length;
 5. 添加成就系统
 
 ## 示例截图
-
-![主界面](https://via.placeholder.com/400x200?text=主界面)
-*主界面显示故事标题和开始按钮*
-
-![故事界面](https://via.placeholder.com/400x200?text=故事界面)
-*横屏故事界面，展示角色和对话*
-
-![结束选项](https://via.placeholder.com/400x200?text=结束选项)
-*故事结束后的选择界面*
-
+无
 ## 使用提示
 
 1. 确保所有图片路径正确
