@@ -499,7 +499,7 @@ const bgIndex = clickCount % backgroundArray.length;
 5. 添加成就系统
 
 ## 示例截图
-吴
+无
 ## 使用提示
 
 1. 确保所有图片路径正确
