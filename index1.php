@@ -485,8 +485,8 @@ function getItemStatus($key, $data) {
                 <!-- 最后一个栏目：打开设置弹窗 -->
                 <div class="nav-item dialog" onclick="openDialog()">
                     <i class="fas fa-cog"></i>
-                    <div class="item-label"><?php echo $data['tc13'] ?? '设置'; ?></div>
-                    <?php echo getItemStatus('tc13', $data); ?>
+                    <div class="item-label"><?php echo $data['tc15'] ?? '设置'; ?></div>
+                    <?php echo getItemStatus('tc15', $data); ?>
                 </div>
             <?php endif; ?>
         </div>
