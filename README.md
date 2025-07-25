@@ -1,4 +1,7 @@
 # Aweb-plot-of-a-play
+建议index.php适合写为个人主页
+index1.php适合做一个游戏首页(有<h6>一点点</h6>借鉴蔚蓝档案)
+pt.php适合写剧情
 戳这访问https://xw.ct.ws/
 # JSON驱动的网页生成系统
 
